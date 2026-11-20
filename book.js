@@ -47,15 +47,15 @@ window.FLIPBOOK_BOOK = {
         "The Inglenook Château is one of the great architectural landmarks of American wine country. Built for winemaking in 1887, the stone château has continued to welcome guests for well over a century, immersing them into its history.",
         "We welcome you to wander through the lush vineyards, explore eco-friendly caves, and savor the artistry of wine that tells a story in every glass. Celebrate a special occasion while enjoying the beauty of the sprawling estate, inspired by the courtyards of Paris. Indulge in creations made by Inglenook’s private chef, who pairs Inglenook wines with locally-sourced ingredients that often come from the bounty of the estate’s gardens. The season’s ingredients are turned into memorable meals that bring out the best in each wine.",
         "Enjoy time spent in the company of wines that carry the history of the land and the vision of those who have cared for it. Every vine planted, bottle crafted, and event celebrated at Inglenook adds a new chapter to the family story. It reflects a commitment to fine winemaking and a family legacy that honors the beauty of the land. Please join us in being a part of Inglenook’s tradition.",
-        "By appointment · 1991 Saint Helena Highway, PO Box 208, Rutherford, CA 94573 · 707-968-1100 · info@inglenook.com · inglenook.com"
+        "By appointment · 1991 Saint Helena Highway, PO Box 208, Rutherford, CA 94573 · 707-968-1100 · info@Inglenook.com · Inglenook.com"
       ],
       hotspots: [
         { href: "tel:+17079681100", label: "Call Inglenook, 707-968-1100",
           left: 62.056, top: 93.889, width: 6.389, height: 2.273 },
         { href: "mailto:info@inglenook.com", label: "Email info@inglenook.com",
-          left: 68.986, top: 93.889, width: 8.931, height: 2.273 },
+          left: 68.917, top: 93.889, width: 9.139, height: 2.273 },
         { href: "https://inglenook.com/", label: "Visit inglenook.com (opens in a new tab)", newTab: true,
-          left: 78.472, top: 93.889, width: 6.556, height: 2.273 }
+          left: 78.444, top: 93.889, width: 6.681, height: 2.273 }
       ]
     },
     {
