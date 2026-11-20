@@ -3,5 +3,5 @@ window.FLIPBOOK_MANIFEST = {
   "pages": 7,
   "width": 720.0,
   "height": 396.0,
-  "version": "4fef175f4d2b"
+  "version": "99ab2fb4e36c"
 };

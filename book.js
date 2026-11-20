@@ -32,9 +32,9 @@ window.FLIPBOOK_BOOK = {
     {
       alt: "Four photographs: ripening grape clusters, a historic sepia view of the chateau, the chateau lit at night and reflected in the fountain pool, and a bottle of Inglenook Rubicon.",
       transcript: [
-        "Inglenook sits at the very center of Rutherford, on the legendary Rutherford Bench. This band of deep, well-drained alluvial soils impart the distinctive dusty richness winemakers call ‘Rutherford Dust.’",
+        "Inglenook sits at the very center of Rutherford, on the legendary Rutherford Bench. This band of deep, well-drained alluvial soils imparts the distinctive dusty richness winemakers call ‘Rutherford Dust.’",
         "Inglenook has continuously made wine on this estate for more than a century, accumulating the deep agricultural knowledge and cellar wisdom that can only be earned through endurance. Each vintage builds upon the last, creating a deep dialogue across generations.",
-        "Philippe Bascaules has been at the helm of Inglenook’s winemaking since 2011. He arrived in the Napa Valley with a vision to fuse Inglenook’s storied terroir with contemporary winemaking excellence. Drawing on his esteemed experience at Chateau Margaux, Philippe describes the essence of a great wine as a narrative of the land, crafted into elegance, freshness, and extraordinary longevity."
+        "Philippe Bascaules has been at the helm of Inglenook’s winemaking since 2011. He arrived in the Napa Valley with a vision to fuse Inglenook’s storied terroir with contemporary winemaking excellence. Drawing on his esteemed experience at Château Margaux, Philippe describes the essence of a great wine as a narrative of the land, crafted into elegance, freshness, and extraordinary longevity."
       ]
     },
     {
